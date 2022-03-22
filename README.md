@@ -1,16 +1,13 @@
 ### Manao ahona 👋
 
-<!--
-**RandJess/RandJess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100041684590046">
+      <img src="https://github.com/RandJess/RandJess/blob/684779309b829b48f361cecf151e6067ef03323a/icons8-facebook-f-64%20(1).png" alt="facebook">
+  </a>
+  <a href="">
+      <img src="https://github.com/RandJess/RandJess/blob/684779309b829b48f361cecf151e6067ef03323a/icons8-whatsapp-64.png" alt="whatsapp">
+  </a>
+  <a href="https://www.linkedin.com/in/jessica-rand-15a488235/">
+      <img src="https://github.com/RandJess/RandJess/blob/684779309b829b48f361cecf151e6067ef03323a/icons8-linkedin-64.png" alt="linkedin">
+  </a>
+</p>
