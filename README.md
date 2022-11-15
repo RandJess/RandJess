@@ -11,7 +11,7 @@
   <a href="">
       <img src="https://github.com/RandJess/RandJess/blob/e3c78e5b4f892095b65df91a35d1e5e1fc2fd2e7/icons8-whatsapp-64%20(1).png" alt="whatsapp">
   </a>
-  <a href="https://www.linkedin.com/in/jessica-rand-15a488235/">
+  <a href="https://www.linkedin.com/in/jessica-randrianasolo-15a488235">
       <img src="https://www.linkedin.com/in/jessica-randrianasolo-15a488235" alt="linkedin">
   </a>
 </p>
