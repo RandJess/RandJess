@@ -12,5 +12,5 @@
   <a href="https://www.linkedin.com/in/jessica-randrianasolo-15a488235">
       <img src="https://github.com/RandJess/RandJess/blob/12e09a1b967c4ba8e7bf21c8d3151e32ff3fa52d/icons8-linkedin-64.png" alt="linkedin">
   </a>
-  https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
